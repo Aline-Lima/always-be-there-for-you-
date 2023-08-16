@@ -1,8 +1,4 @@
 # Name: Aline Lindholm Lima Botti
-# OSU Email: lindhola@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 3
-# Due Date: 07/24
 # Description: This is a Linked List
 
 
