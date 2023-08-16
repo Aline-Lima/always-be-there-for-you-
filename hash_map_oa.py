@@ -1,8 +1,4 @@
 # Name: Aline Lindholm Lima Botti
-# OSU Email: lindhola@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 6
-# Due Date: 08/15
 # Description: Implementation of HashMap OA
 
 from a6_include import (DynamicArray, DynamicArrayException, HashEntry,
